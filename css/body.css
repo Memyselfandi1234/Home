@@ -10,3 +10,8 @@ nav {
   border-color: black;
   border-width: 2px;
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
