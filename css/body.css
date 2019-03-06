@@ -15,3 +15,7 @@ ul {
   position: fixed; 
   overflow: auto; 
 }
+li {
+  text-align:center;
+  font-family:sans-serif;
+}
